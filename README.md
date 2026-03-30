@@ -1,40 +1,74 @@
-# Saulo Victo
+<div align="center">
+  <img height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3J2MW45bXcyMG1hMmYzYWxmMXRuNDYza3RlbWVkb3hjdmR6MDhwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
 
-### 🚀 Estudante de ADS na UFCA | Desenvolvedor focado em Python e Dados
+###
 
-Sou graduando em **Análise e Desenvolvimento de Sistemas** pela Universidade Federal do Cariri (UFCA). Com base na minha experiência em Engenharia, trago um olhar analítico e estruturado para o desenvolvimento de software, focando em soluções robustas e lógica de back-end.
+<h1 align="center">Saulo Victo</h1>
 
----
+###
 
-### 🛠️ Tecnologias e Ferramentas
+<h3 align="center">Backend Developer | Python | APIs</h3>
 
-- **Linguagens:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- **Back-end:** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-- **Banco de Dados:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-- **Front-end:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+###
 
----
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Saulo-victo.Saulo-victo&left_text=Visitantes"  />
+</div>
 
-### 🏗️ No que estou trabalhando agora?
+###
 
-Atualmente, estou mergulhado no ecossistema **Python**, desenvolvendo APIs com **FastAPI** e **Flask**, e aprimorando minhas habilidades em modelagem de dados e arquitetura de sistemas.
+<div align="center">
+  <a href="https://www.linkedin.com/in/saulo-victo-soares-3786873b2/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="saulovicto01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-- 📈 Desenvolvendo um **Sistema de Gestão de Insumos** (CRUD com FastAPI + SQL).
-- 🧠 Estudando padrões de projeto e eficiência algorítmica.
-- ☁️ Explorando integrações e serviços em nuvem.
+###
 
----
+<h3 align="left">👩‍💻  Sobre mim</h3>
 
-### 📊 Estatísticas do GitHub
+###
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saulo-victo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saulo-victo&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
+<p align="left">Backend Developer com foco em construção de APIs utilizando Python, com experiência em FastAPI e Flask. Atuo no desenvolvimento de aplicações com autenticação, regras de negócio e integração com bancos relacionais como SQLite, MySQL e PostgreSQL. Interessado em arquitetura backend, consistência de dados e construção de sistemas escaláveis e bem estruturados.<br><br>- 🔭 Desenvolvimento backend em Python com foco em APIs<br>- 📚 Atualmente estudo otimização de banco de dados, concorrência e construção de sistemas escaláveis<br>- ⚡ Projetos próprios voltados para aplicações backend reais</p>
 
----
+###
 
-### 📫 Como me encontrar:
+<h3 align="left">🛠 Linguagens e frameworks</h3>
 
-- **LinkedIn:** [Saulo Victo Soares](https://www.linkedin.com/in/saulo-victo-soares-3786873b2/)
-- **E-mail:** [saulovicto01@gmail.com](mailto:saulovicto01@gmail.com)
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   Estatísticas :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Saulo-victo&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
