@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Backend Developer | Python | APIs</h3>
+<h3 align="center">Backend Developer | Python | REST APIs | PostgreSQL</h3>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">Backend Developer com foco em construção de APIs utilizando Python, com experiência em FastAPI e Flask. Atuo no desenvolvimento de aplicações com autenticação, regras de negócio e integração com bancos relacionais como SQLite, MySQL e PostgreSQL. Interessado em arquitetura backend, consistência de dados e construção de sistemas escaláveis e bem estruturados.<br><br>- 🔭 Desenvolvimento backend em Python com foco em APIs<br>- 📚 Atualmente estudo otimização de banco de dados, concorrência e construção de sistemas escaláveis<br>- ⚡ Projetos próprios voltados para aplicações backend reais</p>
+<p align="left">Backend Developer com foco em construção de APIs utilizando Python, com experiência em FastAPI e Flask. Desenvolvimento de aplicações com autenticação, regras de negócio e integração com bancos relacionais como SQLite, MySQL e PostgreSQL. Interessado em arquitetura backend, consistência de dados e construção de sistemas escaláveis e bem estruturados.<br><br>- 🔭 Desenvolvimento backend em Python com foco em APIs<br>- 📚 Atualmente estudo otimização de banco de dados, concorrência e construção de sistemas escaláveis<br>- ⚡ Projetos próprios voltados para aplicações backend reais<br>- 🚀 Projeto em destaque: <a href="https://www.exemplo.com](https://github.com/Saulo-victo/HomeSplit.git">Home Split</a>, sistema de gerenciamento de despesas caseiras, autenticação, controle de despesas, dashboard interativo.</p>
 
 ###
 
